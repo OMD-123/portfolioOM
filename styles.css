@@ -616,20 +616,20 @@ a {
 }
 
 #project1 {
-  background-image: url(projects/Project1\ \(1\).png);
+  background-image: url(projects.img/Project1\ \(1\).png);
 }
 
 #project2 {
-  background-image: url(projects/Project2.png);
+  background-image: url(projects.img/Project2.png);
   margin-left: 120px;
 }
 
 #project3 {
-  background-image: url(projects/Project3.png);
+  background-image: url(projects.img/Project3.png);
 }
 
 #project4 {
-  background-image: url(projects/Project4.png);
+  background-image: url(projects.img/Project4.png);
   margin-left: 120px;
 }
 
